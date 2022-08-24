@@ -1,4 +1,10 @@
-### Hi there 👋
+# プロフィール
+
+・名前：戒能 大翔
+
+・所属：愛媛大学 工学部工学科コンピュータ科学コース 人工知能研究室
+
+・E-mail：kaino@ai.cs.ehime-u.ac.jp
 
 <!--
 **kaino-hiroto/kaino-hiroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
