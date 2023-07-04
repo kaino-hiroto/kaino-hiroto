@@ -6,6 +6,11 @@
 
 ・E-mail：kaino@ai.cs.ehime-u.ac.jp
 
+# 研究業績
+・戒能大翔,梶原智之,二宮崇,Joshua Tanner,石渡祥之佑.漫画の機械翻訳における吹き出しよりも長い文脈情報の活用
+
+　FIT2023 第22回情報科学技術フォーラム(発表予定)
+
 <!--
 **kaino-hiroto/kaino-hiroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
