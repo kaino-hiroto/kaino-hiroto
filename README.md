@@ -12,7 +12,7 @@
 　FIT2023 第22回情報科学技術フォーラム(発表予定)
 
  ## 資格等
- ・SIGNATE [Profile](https://signate.jp/users/80724)
+ ・SIGNATE [[Profile]](https://signate.jp/users/80724)
 
 <!--
 **kaino-hiroto/kaino-hiroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
