@@ -13,7 +13,7 @@
 
 ・Hiroto Kaino,Soichiro Sugihara,Tomoyuki Kajiwara,Takashi Ninomiya,Joshua Tanner and Shonosuke Ishiwatari. Utilizing Longer Context than 
 
-  Speech Bubbles in Automated Manga Translation
+　Speech Bubbles in Automated Manga Translation
 
 　LREC-COLING2024
 
