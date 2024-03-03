@@ -10,11 +10,10 @@
 ・戒能大翔,梶原智之,二宮崇,Joshua Tanner,石渡祥之佑.漫画の機械翻訳における吹き出しよりも長い文脈情報の活用
 
 　FIT2023 第22回情報科学技術フォーラム
- 
-・Hiroto Kaino,Soichiro Sugihara,Tomoyuki Kajiwara,Takashi Ninomiya,Joshua Tanner and Shonosuke Ishiwatari. Utilizing Longer Context than 
-  　Speech Bubbles in Automated Manga Translation
-   
-    LREC-COLING2024
+
+・Hiroto Kaino,Soichiro Sugihara,Tomoyuki Kajiwara,Takashi Ninomiya,Joshua Tanner and Shonosuke Ishiwatari. Utilizing Longer Context than Speech Bubbles in Automated Manga Translation
+
+　LREC-COLING2024
 
  ## 資格等
  ・SIGNATE [[Profile]](https://signate.jp/users/80724)
