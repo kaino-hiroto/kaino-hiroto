@@ -11,9 +11,7 @@
 
 　FIT2023 第22回情報科学技術フォーラム
 
-・Hiroto Kaino,Soichiro Sugihara,Tomoyuki Kajiwara,Takashi Ninomiya,Joshua Tanner and Shonosuke Ishiwatari. Utilizing Longer Context than 
-
-　Speech Bubbles in Automated Manga Translation. LREC-COLING 2024
+・Hiroto Kaino,Soichiro Sugihara,Tomoyuki Kajiwara,Takashi Ninomiya,Joshua Tanner and Shonosuke Ishiwatari. Utilizing Longer Context than Speech Bubbles in Automated Manga Translation. LREC-COLING 2024
 
  ## 資格等
  ・SIGNATE [[Profile]](https://signate.jp/users/80724)
